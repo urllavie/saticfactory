@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "saticfactory": {
+      "commandName": "Project",
+      "commandLineArgs": "test"
+    }
+  }
+}
