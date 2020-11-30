@@ -2,7 +2,7 @@
   "profiles": {
     "saticfactory": {
       "commandName": "Project",
-      "commandLineArgs": "test"
+      "commandLineArgs": "7 4"
     }
   }
 }

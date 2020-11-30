@@ -4,12 +4,6 @@ C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\sat
 C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\saticfactory.runtimeconfig.dev.json
 C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\saticfactory.dll
 C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\saticfactory.pdb
-C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\ClosedXML.dll
-C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\DocumentFormat.OpenXml.dll
-C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\ExcelNumberFormat.dll
-C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\Microsoft.Win32.SystemEvents.dll
-C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\System.Drawing.Common.dll
-C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\System.IO.Packaging.dll
 C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\System.Text.Encoding.CodePages.dll
 C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\win-x64\Microsoft.CSharp.dll

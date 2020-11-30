@@ -32,7 +32,7 @@
         Me.amountPmin = Me.ngenPmin * Me.amount
 
         For i = 0 To Me.nMaterials - 1
-            Me.materials.Add(New Material(data(colMaterialsID(i)), data(colMaterialsID(i) + 2)))
+            Me.materials.Add(New Material(data(colMaterialsID(i)), data(colMaterialsID(i) + 2), ngenPmin))
 
         Next
 
