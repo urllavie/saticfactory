@@ -31,23 +31,23 @@ Module RecipeCreater
         Dim summedAmount As Double = 0
         Dim summedMathine As Double = 0
 
-        summedAmount = calcSummedAmount(recipes(RecipeID), recipes(MaterialID), summedAmount)
+        summedAmount = calcSummedAmount(recipes(RecipeID), recipes(MaterialID), summedAmount, 1)
 
 
-        Console.WriteLine(summedAmount & "ŒÂ")
+        Console.WriteLine(summedAmount & "ŒÂ : " & summedAmount / recipes(MaterialID).amountPmin & "‹@")
 
     End Sub
 
-    Function calcSummedAmount(recipe As Recipe, material As Recipe, summedAmount As Double)
+    Function calcSummedAmount(recipe As Recipe, material As Recipe, summedAmount As Double, effi As Double)
 
         Dim m As Material
 
         For Each m In recipe.materials
             If m.ID = material.ID Then
-                summedAmount = summedAmount + m.amountPmin
+                summedAmount = summedAmount + m.amountPmin * effi
 
             End If
-            summedAmount = calcSummedAmount(m.recipe, material, summedAmount)
+            summedAmount = calcSummedAmount(m.recipe, material, summedAmount, m.amountPmin * effi / m.recipe.amountPmin)
 
         Next
 
@@ -80,7 +80,7 @@ Module RecipeCreater
 
     Sub outputRecipe(recipe As Recipe, col As Long, ngenPmin As Double,
                      amount As Long, str As String, strNext As String)
-        Dim j
+
         Dim m
 
 
@@ -138,7 +138,8 @@ Module RecipeCreater
 
         For Each recipe In recipes
             For Each material In recipe.Value.materials
-                material.recipe = recipes(material.ID)
+                material.setRecipe(recipes(material.ID))
+
 
             Next
 
