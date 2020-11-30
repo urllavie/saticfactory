@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\url_l\\Documents\\GitHub\\saticfactory\\saticfactory.vbproj",
-      "projectName": "saticfactory",
-      "projectPath": "C:\\Users\\url_l\\Documents\\GitHub\\saticfactory\\saticfactory.vbproj",
+      "projectUniqueName": "C:\\Users\\url_l\\Documents\\GitHub\\saticfactory\\saticfactoryOutputRecipe.vbproj",
+      "projectName": "saticfactoryOutputRecipe",
+      "projectPath": "C:\\Users\\url_l\\Documents\\GitHub\\saticfactory\\saticfactoryOutputRecipe.vbproj",
       "packagesPath": "C:\\Users\\url_l\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\url_l\\Documents\\GitHub\\saticfactory\\obj\\",
       "projectStyle": "PackageReference",

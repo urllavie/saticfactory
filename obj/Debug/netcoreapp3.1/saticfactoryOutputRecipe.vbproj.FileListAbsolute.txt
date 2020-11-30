@@ -1,0 +1,13 @@
+C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\saticfactoryOutputRecipe.exe
+C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\saticfactoryOutputRecipe.deps.json
+C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\saticfactoryOutputRecipe.runtimeconfig.json
+C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\saticfactoryOutputRecipe.runtimeconfig.dev.json
+C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\saticfactoryOutputRecipe.dll
+C:\Users\url_l\Documents\GitHub\saticfactory\bin\Debug\netcoreapp3.1\saticfactoryOutputRecipe.pdb
+C:\Users\url_l\Documents\GitHub\saticfactory\obj\Debug\netcoreapp3.1\saticfactoryOutputRecipe.vbprojAssemblyReference.cache
+C:\Users\url_l\Documents\GitHub\saticfactory\obj\Debug\netcoreapp3.1\saticfactoryOutputRecipe.vbproj.CoreCompileInputs.cache
+C:\Users\url_l\Documents\GitHub\saticfactory\obj\Debug\netcoreapp3.1\saticfactoryOutputRecipe.AssemblyInfoInputs.cache
+C:\Users\url_l\Documents\GitHub\saticfactory\obj\Debug\netcoreapp3.1\saticfactoryOutputRecipe.AssemblyInfo.vb
+C:\Users\url_l\Documents\GitHub\saticfactory\obj\Debug\netcoreapp3.1\saticfactoryOutputRecipe.dll
+C:\Users\url_l\Documents\GitHub\saticfactory\obj\Debug\netcoreapp3.1\saticfactoryOutputRecipe.pdb
+C:\Users\url_l\Documents\GitHub\saticfactory\obj\Debug\netcoreapp3.1\saticfactoryOutputRecipe.genruntimeconfig.cache

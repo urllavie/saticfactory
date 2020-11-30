@@ -1,6 +1,6 @@
 Imports System
 
-Module RecipeCreater
+Public Module RecipeCreater
     Sub Main(ByVal Args() As String)
 
 
